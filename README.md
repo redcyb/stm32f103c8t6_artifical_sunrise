@@ -11,8 +11,7 @@ Also user can set light on/off via bluetooth.
 Time can be set via bluetooth.
 
 
-
-To set time use next 9-symbol pattern:
+####To set time use next 9-symbol pattern:
 
 **sHH:MM:SS**
 
@@ -25,8 +24,7 @@ MM - minutes  00-59
 HH - seconds  00-59
 
 
-
-To set light to **on** use next 9-symbol pattern:
+####To set light to **on** use next 9-symbol pattern:
 
 **nPPxxxxxx**
 
@@ -37,8 +35,7 @@ PP - percents from max power 00-99
 xxxxxx - any 6 characters
 
 
-
-To set light to **off** use next 9-symbol pattern:
+####To set light to **off** use next 9-symbol pattern:
 
 **mxxxxxxxx**
 
